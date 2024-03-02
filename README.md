@@ -26,6 +26,9 @@
   <a href="https://devnik.me" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://" target="_blank">   
+	<img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
