@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=FrancisSilo-ma&theme=darkhub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=FrancisSilo-ma&margin-w=15&theme=darkhub"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrancisSilo&theme=tokyonight" alt="GitHub Streak" /></a>  
   <img src="https://github-readme-stats.vercel.app/api?username=FrancisSilo&show_icons=true&theme=tokyonight&rank_icon=github" />
   <br/>
