@@ -57,8 +57,8 @@
 <br>
 <div align=center>
   <p align="center"> <a href="https://github.com/ryo-ma&theme=darkhub/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FrancisSilo&theme=darkhub" alt="Frans" /></a> </p>
-  <a href="https://git.io/streak-stats"><img width=300 src="https://streak-stats.demolab.com?user=FrancisSilo&theme=tokyonight" alt="GitHub Streak" /></a>  
-  <img width=300 src="https://github-readme-stats.vercel.app/api?username=FrancisSilo&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <a href="https://git.io/streak-stats"><img width=420 src="https://streak-stats.demolab.com?user=FrancisSilo&theme=tokyonight" alt="GitHub Streak" /></a>  
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=FrancisSilo&show_icons=true&theme=tokyonight&rank_icon=github" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisSilo&layout=pie&theme=tokyonight" />
    
