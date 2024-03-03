@@ -60,7 +60,7 @@
   <a href="https://git.io/streak-stats"><img width=420 src="https://streak-stats.demolab.com?user=FrancisSilo&theme=tokyonight" alt="GitHub Streak" /></a>  
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=FrancisSilo&show_icons=true&theme=tokyonight&rank_icon=github" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisSilo&layout=pie&theme=tokyonight" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisSilo&layout=pie&theme=tokyonight&progress=true" />
    
 </div>
 
